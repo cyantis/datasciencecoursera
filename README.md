@@ -1,2 +1,2 @@
 # datasciencecoursera
-As part of my Coursera course evalutation.
+Part of my Coursera course evalutation.
